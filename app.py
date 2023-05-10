@@ -3,6 +3,7 @@ import json
 import random
 
 st.title("School Letter Automator 🏫")
+st.text("Proffesionalised by Atrayee, F*cked Up by Swastik")
 
 st.header("Your Personal Details")
 student_name = st.text_input("Student Name (Eg: John Doe)")
